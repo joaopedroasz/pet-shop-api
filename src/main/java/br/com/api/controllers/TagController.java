@@ -1,6 +1,5 @@
 package br.com.api.controllers;
 
-import br.com.api.models.Animal;
 import br.com.api.models.Tag;
 import br.com.api.services.AnimalTagService;
 import br.com.api.services.TagService;

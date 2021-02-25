@@ -6,8 +6,6 @@ import lombok.Setter;
 
 import javax.persistence.*;
 
-import com.fasterxml.jackson.databind.ser.std.StdKeySerializers.Default;
-
 @Getter
 @Setter
 @NoArgsConstructor
